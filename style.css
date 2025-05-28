@@ -1,0 +1,30 @@
+body {
+  background-color: #f9f7f7;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 16px;
+  border: none;
+}
+
+.task-card {
+  background-color: #bde0fe;
+  border-left: 6px solid #a2d2ff;
+  padding: 1rem;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.task-card.completed {
+  background-color: #d3f9d8;
+  border-left-color: #74c69d;
+  text-decoration: line-through;
+  color: #6c757d;
+}
+
+.task-actions {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: flex-end;
+}
