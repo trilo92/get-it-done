@@ -1,5 +1,5 @@
 # get-it-done
-A simple to-do list web app built with JavaScript, HTML, and CSS. Add, complete, and delete tasks with data saved in localStorage.
+A simple task tracker app built with HTML, CSS (Bootstrap), and JavaScript. Users can add, complete, and delete tasks — stored in localStorage for persistence.
 
 # Task Tracker
 
@@ -16,6 +16,7 @@ A minimalist and responsive to-do list web app that lets users add, complete, an
 - HTML5
 - CSS3
 - JavaScript (ES6)
+- Bootstrap
 
 ## 🔧 How to Run
 1. Clone the repository
